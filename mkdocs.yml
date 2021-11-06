@@ -1,0 +1,12 @@
+site_name: djangoproject
+site_description: Describes ae issue with limited number of requests handling for django 3 and channels 3
+repo_url: https://github.com/MarcoRizk/django-channels-3-workaround
+site_dir: site
+copyright: Copyright &copy; 2020, <a href="https://github.com/MarcoRizk">MarcoRizk</a>.
+dev_addr: 0.0.0.0:8001
+
+nav:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'

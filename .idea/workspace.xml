@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3a7670b-d89b-40f7-bc5b-39986eeabd44" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.coveragerc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/django-channels-3-workaround.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/config/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/config/local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/config/production.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/consumers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/routing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/users/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/users/migrations/0002_auto_20171227_2246.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/users/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/users/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/users/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/users/test/factories.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/users/test/test_serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/users/test/test_views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/djangoproject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api/authentication.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api/users.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wait_for_postgres.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20W3V9n5SShmbHJpFULml9NSBq8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3a7670b-d89b-40f7-bc5b-39986eeabd44" name="Changes" comment="" />
+      <created>1636146538687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636146538687</updated>
+      <workItem from="1636146544416" duration="5693000" />
+      <workItem from="1636232070473" duration="1634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
